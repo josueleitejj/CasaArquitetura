@@ -6,7 +6,7 @@
 | -------------  | --- |
 | :sparkles: Nome        | Casa Fina Arquitetura
 | :label: Tecnologias | JavaScript, html, Css, Bootstrap5 (tecnologias utilizadas)
-| :rocket: URL         | https://bootstrap-responsive-pi.vercel.app
+| :rocket: URL         | https://casa-arquitetura.vercel.app
 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
