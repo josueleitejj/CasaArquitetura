@@ -4,7 +4,7 @@
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | Responsividade com Bootstrap
+| :sparkles: Nome        | Casa Fina Arquitetura
 | :label: Tecnologias | JavaScript, html, Css, Bootstrap5 (tecnologias utilizadas)
 | :rocket: URL         | https://bootstrap-responsive-pi.vercel.app
 
