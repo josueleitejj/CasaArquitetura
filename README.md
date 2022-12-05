@@ -11,7 +11,7 @@
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 
-![Top_casafina](https://user-images.githubusercontent.com/111453394/204038426-f176287f-8874-4593-8d07-0625e2ebd3a3.png#vitrinedev)
+![CasaFina](https://user-images.githubusercontent.com/111453394/205673499-7118c36f-c3be-4629-b635-cfdf0fa9a2b5.png#vitrinedev)
 
 ## Detalhes do projeto
 
